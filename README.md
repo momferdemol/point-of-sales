@@ -31,3 +31,7 @@ Project uses `.env` file to load environment variables which overwrites `/pos/se
 **Development**
 
 Local development environment created with `devenv.nix`.
+
+**Credits**
+
+YouTube [ArjanCodes](https://www.youtube.com/@ArjanCodes/videos)
